@@ -1,4 +1,3 @@
-@import url(https://fonts.googleapis.com/earlyaccess/cwtexkai.css);
 html, body
 {
 	height: 100%;
@@ -38,7 +37,6 @@ ol, ul
 p
 {
 	line-height: 180%;	
-	font-family: ¡¥cwTeXKai¡¦, serif;
 }
 
 strong
@@ -463,7 +461,7 @@ ul.contact li a.icon-rss:before
 {
 	position: absolute;
 	right: 0;
-	top: 20em;
+	top: 2em;
 }
 
 #menu ul
@@ -482,8 +480,8 @@ ul.contact li a.icon-rss:before
 {
 	display: inline-block;
 	margin-left: 1px;
-	padding: 1em 15em 100em 1.5em;
-	letter-spacing: 0.0010em;
+	padding: 1em 3em 5em 7em;
+	letter-spacing: 0.001em;
 	text-decoration: none;
 	font-size: 1em;
 	text-transform: uppercase;
@@ -507,7 +505,7 @@ ul.contact li a.icon-rss:before
 	#header-featured
 	{
 		padding: 7em 0em;
-		background-image: url(images/1280px-Hadoop_logo.svg.png);
+		background-image: url(images/123.jpg);
 		background-position: center;
 		background-size: cover;
 		border-bottom: 8px solid #45543D;

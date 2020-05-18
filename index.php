@@ -48,52 +48,7 @@ Released   : 20140124
 	<div id="banner" class="container"> </div>
 </div>
 <div id="wel">
-	<div class="container">
-		<h2>阿嬤</h2>
-		<form method="POST">
-		<p>書名</p> <input name="name" type="text"><br>
-		<br>
-		<input type="submit" name="submit" value="確認"><br>
-		<br>
-		</form>
-		<p>故事
-		</p>
-		<a href="templated-linear/index.html" class="button">進入遊戲</a> </div>
-</div>
-<div id="wrapper">
-	<div id="featured-wrapper">
-		<div id="featured" class="extra2 margin-btm container">
-			<div class="main-title">
-				<h2>Nulla eleifend purus</h2>
-				<span class="byline">Integer sit amet pede vel arcu aliquet pretium</span> </div>
-			<div class="ebox1"> <span class="fa fa-pagelines"></span>
-				<div class="title">
-					<h2>Fusce ultrices fringilla</h2>
-					<span class="byline">Integer sit amet pede vel arcu aliquet pretium</span> </div>
-				<p>Consectetuer adipiscing elit. Nam pede erat, porta eu, lobortis eget, tempus et, tellus. Etiam neque. Vivamus consequat lorem at nisl. Nullam non wisi a sem semper eleifend. Donec mattis libero eget urna. Duis pretium velit ac mauris. Proin eu wisi suscipit nulla suscipit interdum. Aenean lectus lorem, imperdiet at, ultrices eget, ornare et, wisi. </p>
-				<a href="#" class="button">Etiam posuere</a> </div>
-			<div class="ebox2"> <span class="fa fa-anchor"></span>
-				<div class="title">
-					<h2>Donec dictum metus</h2>
-					<span class="byline">Integer sit amet pede vel arcu aliquet pretium</span> </div>
-				<p>Donec pulvinar ullamcorper metus. In eu odio at lectus pulvinar mollis. Vestibulum sem magna, elementum ut, vestibulum eu, facilisis quis, arcu. Mauris a dolor. Nulla facilisi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed blandit. Phasellus pellentesque, ante nec iaculis dapibus, eros justo auctor lectus.</p>
-				<a href="#" class="button">Etiam posuere</a> </div>
-		</div>
-		<div class="extra2 container">
-			<div class="ebox1"> <span class="fa fa-puzzle-piece"></span>
-				<div class="title">
-					<h2>Etiam rhoncus volutpat</h2>
-					<span class="byline">Integer sit amet pede vel arcu aliquet pretium</span> </div>
-				<p>Integer nisl risus, sagittis convallis, rutrum id, elementum congue, nibh. Suspendisse dictum porta lectus. Donec placerat odio vel elit. Nullam ante orci, pellentesque eget, tempus quis, ultrices in, est. Sed vel tellus. Curabitur sem urna, consequat vel, suscipit in, mattis placerat, nulla. Sed ac leo. Pellentesque imperdiet. Pellentesque viverra vulputate enim.</p>
-				<a href="#" class="button">Etiam posuere</a> </div>
-			<div class="ebox2"> <span class="fa fa-comments-o"></span>
-				<div class="title">
-					<h2>Mauris vulputate dolor</h2>
-					<span class="byline">Integer sit amet pede vel arcu aliquet pretium</span> </div>
-				<p>Proin gravida orci porttitor enim accumsan lacinia. Donec condimentum, urna non molestie semper, ligula enim ornare nibh, quis laoreet eros quam eget ante. Aliquam libero. Vivamus nisl nibh, iaculis vitae, viverra sit amet, ullamcorper vitae, turpis. Aliquam erat volutpat. Vestibulum dui sem, pulvinar sed, imperdiet nec, iaculis nec, leo. </p>
-				<a href="#" class="button">Etiam posuere</a> </div>
-		</div>
-	</div>
+		<a href="start_game/index.php" class="button">進入遊戲</a> </div>
 </div>
 <div id="copyright" class="container">
 	<p>&copy; Untitled. All rights reserved. | Photos by <a href="http://fotogrph.com/">Fotogrph</a> | Design by <a href="http://templated.co" rel="nofollow">TEMPLATED</a>.</p>
